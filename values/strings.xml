@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">View Slot Advance</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="find_by_city">Find By City</string>
+    <string name="find_by_zip">Find By Zip</string>
+    <string name="vaccine_slot_finder">Vaccine Slot Finder</string>
+    <string name="view" />
+    <string name="enter_your_details">Enter Your Details</string>
+    <string name="enter_zip">Enter Zip</string>
+    <string name="view1">View</string>
+    <string name="enter_date">Enter Date</string>
+
+</resources>
